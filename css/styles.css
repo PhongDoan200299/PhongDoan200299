@@ -330,7 +330,9 @@ pre {
   .stats .grid,
   .cli .grid,
   .cloud .grid,
-  .features-main .grid,
+  .features-head .grid,
+  .features-sub-head .grid,
+  .docs-head .grid,
   .docs-main .grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
